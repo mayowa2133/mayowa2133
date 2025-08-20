@@ -1,6 +1,6 @@
 # Hi there, I'm Mayowa 👋
 
-I'm an aspiring Software Engineer with a passion for building practical applications and solving problems with code. I enjoy turning complex ideas into simple, interactive tools, from data-driven web apps to NLP-powered APIs.
+I'm a Software Engineer with a passion for building practical applications and solving problems with code. I enjoy turning complex ideas into simple, interactive tools, from data-driven web apps to NLP-powered APIs.
 
 ---
 
