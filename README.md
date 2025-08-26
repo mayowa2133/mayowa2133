@@ -8,7 +8,7 @@ I'm a Software Engineer with a passion for building practical applications and s
 
 Here are some of the technologies I've been working with:
 
-- **Languages:** Python
+- **Languages:** Python, Java, JavaScript, HTML, CSS
 - **Frameworks:** FastAPI, Streamlit
 - **Libraries:** Scikit-learn, Pandas, Hugging Face Transformers, PyTorch, Matplotlib
 - **Tools:** Git, GitHub, VS Code, Docker
