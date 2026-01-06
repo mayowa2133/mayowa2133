@@ -8,10 +8,13 @@ I'm a Software Engineer with a passion for building practical applications and s
 
 Here are some of the technologies I've been working with:
 
-- **Languages:** Python, Java, JavaScript, HTML, CSS
-- **Frameworks:** FastAPI, Streamlit, Spring Boot, Thymeleaf
-- **Libraries:** Scikit-learn, Pandas, Hugging Face Transformers, PyTorch, Matplotlib, Chart.js
-- **Tools:** Git, GitHub, VS Code, Docker, Maven
+* **Languages:** Python, Java, JavaScript, TypeScript, C, C++, Swift, SQL, NoSQL, HTML, CSS
+* **Frameworks:** FastAPI, Streamlit, Spring Boot, Thymeleaf, React, Node.js
+* **Libraries:** Scikit-learn, TensorFlow, Hugging Face Transformers, PyTorch, Pandas, Matplotlib, OpenCV, Chart.js
+* **Cloud & DevOps:** AWS (Lambda, S3, API Gateway, Step Functions, EC2, SageMaker, CloudWatch, SNS), Terraform, Docker
+* **Databases:** MySQL, Neo4j, Pinecone
+* **Tools:** Git, GitHub, VS Code, Xcode, Maven, Cursor, Power BI
+
 
 ---
 
